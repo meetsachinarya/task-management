@@ -1,3 +1,30 @@
+Task Management App
+This is a simple task management app built with React, which allows users to log in, manage tasks, and persist the tasks in localStorage. Each user has their own task list, and tasks are stored specifically for the logged-in user.
+
+ Functionalities:
+  
+- User login and logout
+- Task management (Add, complete, delete tasks)
+- Tasks are saved per user in localStorage
+- State management using React Context API
+  
+Pre-requisites:
+
+- React
+- React Router
+- Context API and useContext for state management
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
